@@ -30,7 +30,7 @@ script = "build.py"
 generate-setup-file = true
 
 [tool.poetry.dependencies]
-python = "*"
+python = ">=3.6"
 numpy = "*"
 
 [tool.poetry.dev-dependencies]
